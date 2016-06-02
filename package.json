@@ -3,6 +3,7 @@
   "version": "1.0.0",
   "description": "History API for most.js",
   "main": "lib/index.js",
+  "typings": "lib/index.d.ts",
   "scripts": {
     "commit": "git-cz",
     "changelog": "conventional-changelog --infile CHANGELOG.md --same-file --release-count 0 --preset angular",
