@@ -1,6 +1,6 @@
 # most-history
 
-## Installing (sorry not yet)
+## Installing
 
 ```
 $ npm install --save most-history
